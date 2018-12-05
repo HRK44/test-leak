@@ -1,2 +1,3 @@
-node index.js
-./send.js (chmod +x)
+- npm i
+- node index.js
+- ./send.js (chmod +x)
